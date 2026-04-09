@@ -3,7 +3,7 @@
 This is my readme.md file for my personal page.
 
 ## Quick Start
-To clone: https://github.com/iltStudent11/mike-personal-page
+To clone: git clone https://github.com/iltStudent11/mike-personal-page
 
 ## Project Reason
 I create this personal page to practice what I learned in the HTML training videos.  Here I will start by creating a index.html 'home page' as a starting point.  I will also add a styles.css to my project.
